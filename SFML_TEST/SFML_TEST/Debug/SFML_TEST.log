@@ -1,0 +1,17 @@
+﻿  tembaktest.cpp
+c:\users\jerem\onedrive\documents\visual studio 2015\projects\sfml_test\sfml_test\tembaktest.cpp(116): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jerem\onedrive\documents\visual studio 2015\projects\sfml_test\sfml_test\tembaktest.cpp(138): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jerem\onedrive\documents\visual studio 2015\projects\sfml_test\sfml_test\tembaktest.cpp(160): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jerem\onedrive\documents\visual studio 2015\projects\sfml_test\sfml_test\tembaktest.cpp(170): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jerem\onedrive\documents\visual studio 2015\projects\sfml_test\sfml_test\tembaktest.cpp(238): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\jerem\onedrive\documents\visual studio 2015\projects\sfml_test\sfml_test\tembaktest.cpp(835): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jerem\onedrive\documents\visual studio 2015\projects\sfml_test\sfml_test\tembaktest.cpp(853): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jerem\onedrive\documents\visual studio 2015\projects\sfml_test\sfml_test\tembaktest.cpp(371): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\jerem\onedrive\documents\visual studio 2015\projects\sfml_test\sfml_test\tembaktest.cpp(479): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\jerem\onedrive\documents\visual studio 2015\projects\sfml_test\sfml_test\tembaktest.cpp(587): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\jerem\onedrive\documents\visual studio 2015\projects\sfml_test\sfml_test\tembaktest.cpp(696): warning C4390: ';': empty controlled statement found; is this the intent?
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  backup.cpp
+  SFML_TEST.vcxproj -> C:\Users\jerem\onedrive\documents\visual studio 2015\Projects\SFML_TEST\Debug\SFML_TEST.exe
+  SFML_TEST.vcxproj -> C:\Users\jerem\onedrive\documents\visual studio 2015\Projects\SFML_TEST\Debug\SFML_TEST.pdb (Full PDB)

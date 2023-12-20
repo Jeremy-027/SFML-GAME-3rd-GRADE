@@ -1,0 +1,35 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (GAME_JEREMYJHONSON.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  backup.cpp
+  tembaktest.cpp
+C:\Users\jerem\OneDrive\Documents\Visual Studio 2015\Projects\SFML_TEST\SFML_TEST\tembaktest.cpp(173,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jerem\OneDrive\Documents\Visual Studio 2015\Projects\SFML_TEST\SFML_TEST\tembaktest.cpp(173,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jerem\OneDrive\Documents\Visual Studio 2015\Projects\SFML_TEST\SFML_TEST\tembaktest.cpp(195,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jerem\OneDrive\Documents\Visual Studio 2015\Projects\SFML_TEST\SFML_TEST\tembaktest.cpp(195,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jerem\OneDrive\Documents\Visual Studio 2015\Projects\SFML_TEST\SFML_TEST\tembaktest.cpp(217,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jerem\OneDrive\Documents\Visual Studio 2015\Projects\SFML_TEST\SFML_TEST\tembaktest.cpp(217,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jerem\OneDrive\Documents\Visual Studio 2015\Projects\SFML_TEST\SFML_TEST\tembaktest.cpp(244,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jerem\OneDrive\Documents\Visual Studio 2015\Projects\SFML_TEST\SFML_TEST\tembaktest.cpp(244,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jerem\OneDrive\Documents\Visual Studio 2015\Projects\SFML_TEST\SFML_TEST\tembaktest.cpp(253,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jerem\OneDrive\Documents\Visual Studio 2015\Projects\SFML_TEST\SFML_TEST\tembaktest.cpp(339,78): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\jerem\OneDrive\Documents\Visual Studio 2015\Projects\SFML_TEST\SFML_TEST\tembaktest.cpp(339,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\jerem\OneDrive\Documents\Visual Studio 2015\Projects\SFML_TEST\SFML_TEST\tembaktest.cpp(1032,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jerem\OneDrive\Documents\Visual Studio 2015\Projects\SFML_TEST\SFML_TEST\tembaktest.cpp(1032,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jerem\OneDrive\Documents\Visual Studio 2015\Projects\SFML_TEST\SFML_TEST\tembaktest.cpp(1074,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\jerem\OneDrive\Documents\Visual Studio 2015\Projects\SFML_TEST\SFML_TEST\tembaktest.cpp(1074,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\jerem\OneDrive\Documents\Visual Studio 2015\Projects\SFML_TEST\SFML_TEST\tembaktest.cpp(481,31): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\jerem\OneDrive\Documents\Visual Studio 2015\Projects\SFML_TEST\SFML_TEST\tembaktest.cpp(607,31): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\jerem\OneDrive\Documents\Visual Studio 2015\Projects\SFML_TEST\SFML_TEST\tembaktest.cpp(733,31): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\jerem\OneDrive\Documents\Visual Studio 2015\Projects\SFML_TEST\SFML_TEST\tembaktest.cpp(860,31): warning C4390: ';': empty controlled statement found; is this the intent?
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 770 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SFML_TEST.vcxproj -> C:\Users\jerem\OneDrive\Documents\Visual Studio 2015\Projects\SFML_TEST\Release\SFML_TEST.exe
